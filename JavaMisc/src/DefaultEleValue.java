@@ -1,7 +1,7 @@
 /**
  * 
  * @author rishiraj
- * 
+ * to test default values of elements of array
  */
 public class DefaultEleValue {
  public static void main(String[] args) {
