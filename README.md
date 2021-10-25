@@ -4,7 +4,7 @@ Work is in progress to make this navigation (browsing) even more convenient and 
 
 To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.netlify.app/)
 
-## Sping Boot With Eureka [Link](https://github.com/rishiraj88/CodeSamples/tree/main/SpingBootWithEureka)
+## Spring Boot With Eureka [Link](https://github.com/rishiraj88/CodeSamples/tree/main/SpingBootWithEureka)
 - a project showcasing Eureka Service Discovery implemented for Microservices.
 - The following have been used here:
 -- Java 17
