@@ -2,7 +2,27 @@
 The landing page to navigate across my repositories. It features notes and links to my personal projects.
 Work is in progress to make this navigation (browsing) even more convenient and seemless. Thanks for patience!
 
-## 1. Java 17 Features [Link](https://github.com/rishiraj88/CodeSamples)
+To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.netlify.app/)
+
+## Sping Boot With Eureka [Link](https://github.com/rishiraj88/CodeSamples/tree/main/SpingBootWithEureka)
+- a project showcasing Eureka Service Discovery implemented for Microservices.
+- The following have been used here:
+-- Java 17
+-- Spring Boot v2.5.6
+-- various dependencies for different Microservices/modules
+-- API Gateway and Actuator functionalities are also featured.
+
+### Short Documentation
+When you have clone the project artefacts and started the microservices hosted in local environment,
+- the URL to access API Gateway is: [http://localhost](http://localhost);
+- the constituent microservices can be utilised with socket (URL and port) of the gateway alone.
+-- > http://localhost/user/2024
+-- > http://localhost/contact/user/2024
+
+#### Hint:
+Port for the API Gateway is `80`.
+
+## 1. Java 17 Features [Link](https://github.com/rishiraj88/CodeSamples/tree/main/Java17Features/src)
 - restore always-Strict floating-point semantics
 - enhanced pseudo-random number generators
 - new macOS rendering pipeline
@@ -45,9 +65,8 @@ JDK 11 features used in various implementations:
 And more on the way!
 
 ## 5. RRShopware [Link](https://github.com/rishiraj88/RRShopware)
-- core JavaScript/CSS/HTML site PoC
-- a shopping site implementation
-- a single page site, live [here](https://rrshops.netlify.app/)
+- a shopping site implementation with vanilla JavaScript, CSS and HTML
+- To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.netlify.app/)
 
 ## 6. More Java Samples [Link](https://github.com/rishiraj88/CodeSamples/tree/main/JavaSamples/src)
 - **DefaultEleValue.java :** to test default values of elements of array
