@@ -33,7 +33,6 @@ OpenStack began in 2010 as a joint project of *Rackspace Hosting* and *NASA*. As
 
 In addition to its own API, CloudStack also supports the *Amazon Web Services (AWS) API* and *the Open Cloud Computing Interface* from *the Open Grid Forum*.
 
-## Apache cloudstack
 **CloudStack** is a [turnkey](https://en.wikipedia.org/wiki/Turnkey) solution that includes the entire "stack" of features most organizations want with an IaaS cloud:
 - compute orchestration,
 - Network as a Service,
