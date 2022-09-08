@@ -1,6 +1,6 @@
 # portfolio
-The landing page to navigate across my repositories. It features notes and links to my personal projects.
-Work is in progress to make this navigation (browsing) even more convenient and seemless. Thanks for patience!
+The landing page to navigate across my repositories. It features notes and links to my personal projects and code samples.
+I'm back at work, and I'll make this navigation (browsing) even more convenient and seemless. Thanks for patience!
 
 To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.netlify.app/)
 
