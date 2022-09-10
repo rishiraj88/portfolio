@@ -6,6 +6,7 @@ To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.n
 
 ## Spring Boot With Eureka [Link](https://github.com/rishiraj88/CodeSamples/tree/main/SpingBootWithEureka)
 - a project showcasing Eureka Service Discovery implemented for Microservices.
+- to update it on 10.Sep.2022 and 11.Sep.2022.
 - The following have been used here:
 -- Java 17
 -- Spring Boot v2.5.6
