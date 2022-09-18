@@ -20,23 +20,23 @@ Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing platform,
 Amazon EMR (previously called Amazon Elastic MapReduce) is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark, on AWS to process and analyze vast amounts of data. Using these frameworks and related open-source projects, you can process data for analytics purposes and business intelligence workloads. Amazon EMR also lets you transform and move large amounts of data into and out of other AWS data stores and databases, such as Amazon Simple Storage Service (Amazon S3) and Amazon DynamoDB. AWS docs
 <https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html>
 
-## RDS: Amazon Relational Database Service
+## RDS: Relational Database Service
 Amazon Relational Database Service is a distributed relational database service by Amazon Web Services. It is a web service running "in the cloud" designed to simplify the setup, operation, and scaling of a relational database for use in applications. 
 <https://aws.amazon.com/rds/>
-
-## SQS: Amazon Simple Queue Service
-Amazon Simple Queue Service is a distributed message queuing service introduced by Amazon.com in late 2004. It supports programmatic sending of messages via web service applications as a way to communicate over the Internet. 
-<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html>
 
 ## SNS: Simple Notification Service
 Amazon Simple Notification Service is a notification service provided as part of Amazon Web Services since 2010. It provides a low-cost infrastructure for the mass delivery of messages, predominantly to mobile users. 
 <https://aws.amazon.com/sns/>
 
+## SQS: Simple Queue Service
+Amazon Simple Queue Service is a distributed message queuing service introduced by Amazon.com in late 2004. It supports programmatic sending of messages via web service applications as a way to communicate over the Internet. 
+<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html>
+
 ## Amazon Kinesis - Process & Analyze Streaming Data
 Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to cost-effectively process streaming data at any scale, along with the flexibility to choose the tools that best suit the requirements of your application. With Amazon Kinesis, you can ingest real-time data such as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning, analytics, and other applications. Amazon Kinesis enables you to process and analyze data as it arrives and respond instantly instead of having to wait until all your data is collected before the processing can begin.
 <https://aws.amazon.com/kinesis/>
 
-## Fully Managed Apache Kafka – Amazon MSK – Amazon Web Services
+## Fully Managed Apache Kafka – Amazon MSK: Amazon **M**anaged **S**treaming for Apache **K**afka
 Securely stream data with a fully managed, highly available Apache Kafka service
 - Eliminate operational overhead—including the provisioning, configuration, and maintenance of highly available Apache Kafka and Kafka Connect clusters.
 - Use applications and tools built for Apache Kafka out of the box, with no application code changes required.
